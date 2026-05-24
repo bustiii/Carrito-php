@@ -1,5 +1,7 @@
 # Kata: Lista de la compra
 
+> Repositorio forkeado de la kata FizzBuzz ([540/FizzBuzz-php](https://github.com/540/FizzBuzz-php)) para reutilizar la configuración de Docker ya existente.
+
 Queremos construir una clase para gestionar una lista de la compra a través de una única función.
 
 La lista comienza vacía. El usuario puede añadir productos, eliminarlos o vaciar la lista completamente. Todas las operaciones se realizan mediante instrucciones en forma de texto.
